@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ashish-raturi)
 
-Hi! I'm Ashish Raturi, a self-taught mobile app developer from India. I help designers, small agencies and businesses bring their ideas to life.
+Hi! I'm Ashish Raturi, a full-stack app developer from India. I help developers, small agencies, and businesses bring their ideas to life.
 
 Powered by Flutter, VS Code and Coffee.
 
