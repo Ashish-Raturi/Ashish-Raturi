@@ -13,7 +13,7 @@ Powered by Flutter, VS Code and Coffee.
 - 👨🏽‍💻 I primarily code with Flutter in Dart
 - 🌱 I’m dabbling in Objective-C, HTML / JavaScript, and TypeScript
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [email](mailto://ashishraturi368@gmail.com)
+- 📫 How to reach me: [email](mailto:ashishraturi368@gmail.com)
 
 **Languages and Tools:**  
 
