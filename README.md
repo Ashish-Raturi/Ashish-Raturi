@@ -24,9 +24,13 @@ Powered by Flutter, VS Code and Coffee.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+
+📈 **My GitHub Stats**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Raturi)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 📊 **My Week Stats**
-
-
 
 <p> <img src="https://github-readme-stats.tneotia.vercel.app/api/wakatime?username=Ashish-Raturi&theme=dark" alt="tneotia" /> </p>
 
@@ -35,7 +39,4 @@ Powered by Flutter, VS Code and Coffee.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Raturi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-📈 **My GitHub Stats**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Raturi)](https://github.com/anuraghazra/github-readme-stats)
-  
