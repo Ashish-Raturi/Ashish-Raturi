@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-<a href="https://www.linkedin.com/in/tneotia/">
-  <img align="left" alt="Tanay's LinkedIN" height="22px" src="https://github.com/Ashish-Raturi/Ashish-Raturi/blob/main/Udemy-Emblem.png" />
+<a href="https://www.udemy.com/user/mrx-head/">
+  <img align="left"  height="22px" src="https://github.com/Ashish-Raturi/Ashish-Raturi/blob/main/Udemy-Emblem.png" />
 
 </a>
 
