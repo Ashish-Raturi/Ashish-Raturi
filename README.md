@@ -1,6 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 <a href="https://www.linkedin.com/in/tneotia/">
   <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Tanay's LinkedIN" height="22px" src="https://github.com/Ashish-Raturi/Ashish-Raturi/blob/main/Udemy-Emblem.png" />
+
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ashish-raturi)
@@ -12,7 +14,7 @@ Powered by Flutter, VS Code and Coffee.
 - 👨🏽‍💻 I primarily code with Flutter in Dart
 - 🌱 I’m dabbling in Objective-C, HTML / JavaScript, and TypeScript
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [Gmail](mailto://ashishraturi368@gmail.com)
+- 📫 How to reach me: [email](mailto://ashishraturi368@gmail.com)
 
 **Languages and Tools:**  
 
