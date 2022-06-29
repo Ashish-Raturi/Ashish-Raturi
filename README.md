@@ -3,35 +3,16 @@
   <img align="left" alt="Tanay's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tneotia.tneotia)
+![](https://visitor-badge.glitch.me/badge?page_id=ashish-raturi)
 
+Hi! I'm Ashish Raturi, a self-taught mobile app developer from India. I help designers, small agencies and businesses bring their ideas to life.
 
-**Ashish-Raturi/Ashish-Raturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Powered by Flutter, VS Code and Coffee.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-
-
-
-Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying Mechanical Engineering at the Georgia Institute of Technology. 
-
-- 👨🏽‍💻 I’m currently working on [HLS Grades](https://github.com/tneotia/HLSGrades) and [BlueBubbles](https://github.com/BlueBubblesApp)
 - 👨🏽‍💻 I primarily code with Flutter in Dart
 - 🌱 I’m dabbling in Objective-C, HTML / JavaScript, and TypeScript
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [tanay at neotia dot in](mailto://tanay@neotia.in)
-- 📝 [Resume](https://drive.google.com/file/d/1zlV1XXz1qV1TZeIYtkQ2bvopnYlI753g/view?usp=sharing)
+- 📫 How to reach me: [Gmail](mailto://ashishraturi368@gmail.com)
 
 **Languages and Tools:**  
 
@@ -45,23 +26,16 @@ Hi! I'm Tanay Neotia, a self-taught mobile app developer from Kentucky, studying
 
 📊 **My Week Stats**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/wakatime?username=tneotia&theme=dark" alt="tneotia" /> </p>
+
+
+<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/wakatime?username=Ashish-Raturi&theme=dark" alt="tneotia" /> </p>
 
 👨‍💻 **My Top Languages**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/top-langs?username=tneotia&theme=dark" alt="tneotia" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Raturi)](https://github.com/anuraghazra/github-readme-stats)
 
 
 📈 **My GitHub Stats**
 
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api?username=tneotia&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="tneotia" /> </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Raturi)](https://github.com/anuraghazra/github-readme-stats)
   
-:zap: **Recent Activity**
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2169](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2169) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-2. ❌ Closed PR [#2168](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2168) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-3. 💪 Opened PR [#2168](https://github.com/BlueBubblesApp/bluebubbles-app/pull/2168) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-4. ❗️ Closed issue [#2029](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2029) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-5. 🗣 Commented on [#2029](https://github.com/BlueBubblesApp/bluebubbles-app/issues/2029) in [BlueBubblesApp/bluebubbles-app](https://github.com/BlueBubblesApp/bluebubbles-app)
-<!--END_SECTION:activity-->
