@@ -30,10 +30,6 @@ Powered by Flutter, VS Code and Coffee.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashish-Raturi)](https://github.com/anuraghazra/github-readme-stats)
   
   
-📊 **My Week Stats**
-
-<p> <img src="https://github-readme-stats.tneotia.vercel.app/api/wakatime?username=Ashish-Raturi&theme=dark" alt="tneotia" /> </p>
-
 👨‍💻 **My Top Languages**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish-Raturi)](https://github.com/anuraghazra/github-readme-stats)
